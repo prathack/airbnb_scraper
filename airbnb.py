@@ -11,9 +11,10 @@ def intro():
                  2.chrome web driver
                  3.csv """)
     print(""" Ussage:
-                 1.Open Airbnb and type any place in search bar
-                 2***.Copy and paste the results url which has offset parameter value is empty
-                 3.Ex: https://www.airbnb.co.in/s/sukhumvit/homes?allow_override%5B%5D=&s_tag=SPeAs5nW&section_offset=
+                 1.Give the correct path of the driver to initiate chrome
+                 2.Open Airbnb and type any place in search bar
+                 3**Copy and paste the results url which has offset parameter value is empty
+                 4.Ex: https://www.airbnb.co.in/s/sukhumvit/homes?allow_override%5B%5D=&s_tag=SPeAs5nW&section_offset=
     """)
     
 
