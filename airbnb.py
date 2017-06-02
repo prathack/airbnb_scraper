@@ -1,7 +1,11 @@
 from selenium import webdriver
 import csv
 def intro():
-    print("*****Airbnb Web Scraper 1.0 by prathack *****")
+    print("""*****Airbnb Web Scraper 1.0 by prathack *****
+                          Author : Prathap
+                      FacebookID : prathack
+                      Website    : pythongui.com
+    """)
     print(""" Python3 Modules need to be Installed :
                  1.selenium
                  2.chrome web driver
